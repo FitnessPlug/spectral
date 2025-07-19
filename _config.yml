@@ -6,19 +6,19 @@ title: The Fitness Plug
 description: |
   Plug-in fitness into your life
 owner: Your Name # or company name
-first_published: 2016 # if migrating another site, the year of your first publish
-email: your-email@domain.com
+first_published: 2025 # if migrating another site, the year of your first publish
+email: mailtothefitnessplug@gmail.com
 baseurl: "/spectral" # the subpath of your site, e.g. /blog
 url: "https://fitnessplug.github.io" # the base hostname & protocol for your site
 social:
-  twitter: https://twitter.com/<username>
-  github: https://github.com/<username>
-  linkedin-square: https://linkedin.com/in/<username>
-  facebook-official: https://facebook.com/<username>
-  google-plus-square: https://plus.google.com/u/0/+<username>
-  #email: /contact/
+  #twitter: https://twitter.com/<username>
+  #github: https://github.com/<username>
+  #linkedin-square: https://linkedin.com/in/<username>
+  #facebook-official: https://facebook.com/<username>
+  #google-plus-square: https://plus.google.com/u/0/+<username>
+  email: mailto:mailtothefitnessplug@gmail.com
   #flickr:
-  #instagram:
+  instagram: https://www.instagram.com/train_thefitnessplug?igsh=MXQ2Ymo0eDF3bWp5dg%3D%3D&utm_source=qr
   #youtube-square:
   #spotify:
   #stack-overflow:
